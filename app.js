@@ -1,6 +1,6 @@
 
-// Before using the app you must have installed mysql
-// You can download XAMPP from https://www.apachefriends.org/index.html
+// Before using the app you must have installed Mysql
+// You can download XAMPP (which has Mysql as well) from https://www.apachefriends.org/index.html
 // After downloading and installing you must start the Apache server and Mysql then visit http://localhost/phpmyadmin/ for the 
 // mysql dashboard.
 // To run this app you must run 'npm i -g nodemon' then, within the project, run 'npm start'
